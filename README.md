@@ -1,7 +1,7 @@
 # Real Estate Negotiation Workshop
 ## Learn MCP · A2A · Google ADK
 
-A **4-hour hands-on workshop** teaching modern AI agent frameworks through a concrete, runnable project: an autonomous real estate negotiation between a Buyer Agent and a Seller Agent.
+A **4-hour hands-on workshop**  modern AI agent frameworks through a concrete, runnable project: an autonomous real estate negotiation between a Buyer Agent and a Seller Agent.
 
 ---
 
